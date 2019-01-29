@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1548795498436" clover="3.2.0">
+  <project timestamp="1548795498436" name="All files">
+    <metrics statements="124" coveredstatements="110" conditionals="29" coveredconditionals="26" methods="66" coveredmethods="59" elements="219" coveredelements="195" complexity="0" loc="124" ncloc="124" packages="1" files="20" classes="20">
+      <file name="api.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/api.js">
+        <metrics statements="11" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+      <file name="countdown.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/countdown.js">
+        <metrics statements="9" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="error-boundary.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/error-boundary.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="5" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="favorite-number.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/favorite-number.js">
+        <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="11" count="15" type="stmt"/>
+        <line num="12" count="15" type="cond" truecount="3" falsecount="0"/>
+        <line num="13" count="15" type="stmt"/>
+      </file>
+      <file name="greeting-loader-01-mocking.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/greeting-loader-01-mocking.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+      </file>
+      <file name="greeting-loader-02-dependency-injection.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/greeting-loader-02-dependency-injection.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+      <file name="hidden-message.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/hidden-message.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+      <file name="main.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/main.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+      <file name="modal.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/modal.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="post-editor-01-markup.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-01-markup.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="post-editor-02-state.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-02-state.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="post-editor-03-api.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-03-api.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+      <file name="post-editor-04-router-redirect.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-04-router-redirect.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+      <file name="post-editor-05-dates.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-05-dates.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+      <file name="post-editor-06-generate-data.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-06-generate-data.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+      <file name="post-editor-07-error-state.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-07-error-state.js">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+      </file>
+      <file name="post-editor-08-custom-render.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor-08-custom-render.js">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+      </file>
+      <file name="post-editor.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/post-editor.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="redux-app.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/redux-app.js">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="33" count="10" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="39" count="10" type="cond" truecount="3" falsecount="0"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+      </file>
+      <file name="toggle.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/toggle.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
