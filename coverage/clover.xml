@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1548795498436" clover="3.2.0">
-  <project timestamp="1548795498436" name="All files">
+<coverage generated="1549718407887" clover="3.2.0">
+  <project timestamp="1549718407887" name="All files">
     <metrics statements="124" coveredstatements="110" conditionals="29" coveredconditionals="26" methods="66" coveredmethods="59" elements="219" coveredelements="195" complexity="0" loc="124" ncloc="124" packages="1" files="20" classes="20">
       <file name="api.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/api.js">
         <metrics statements="11" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
@@ -38,10 +38,10 @@
       <file name="favorite-number.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/favorite-number.js">
         <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
         <line num="7" count="3" type="stmt"/>
-        <line num="10" count="15" type="stmt"/>
-        <line num="11" count="15" type="stmt"/>
-        <line num="12" count="15" type="cond" truecount="3" falsecount="0"/>
-        <line num="13" count="15" type="stmt"/>
+        <line num="10" count="16" type="stmt"/>
+        <line num="11" count="16" type="stmt"/>
+        <line num="12" count="16" type="cond" truecount="3" falsecount="0"/>
+        <line num="13" count="16" type="stmt"/>
       </file>
       <file name="greeting-loader-01-mocking.js" path="/Users/aurimas.darguzis/Documents/Projects/test/react-testing-library/src/greeting-loader-01-mocking.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
